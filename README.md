@@ -6,7 +6,7 @@ A standalone 3D quantum state simulator that runs directly in the browser withou
 * **Custom Initial State:** Can be defined using polar (θ) and azimuthal (φ) angles in radians.
 * **Quantum Gates:** Supports fundamental single-qubit Pauli, Hadamard, and phase gates (X, Y, Z, H, S, T), as well as parameterized rotation gates (Rx, Ry, Rz) with arbitrary angles.
 * **Circuit Builder (Pipeline):** Selected gates can be chained together and applied as a sequence to the current quantum state with a single click.
-* **Simultaneous Multi-State Visualization:** The simulator can display multiple individually color-coded state vectors on the Bloch sphere at the same time[cite: 5].
+* **Simultaneous Multi-State Visualization:** The simulator can display multiple individually color-coded state vectors on the Bloch sphere at the same time.
 * **Custom 3D Rendering Engine:** Purely HTML5 Canvas-based, utilizing custom 3D projection and camera rotation logic, oriented according to quantum physics conventions (vertical Y-axis).
 
 ## 🚀 Running the Simulator (Standalone)
